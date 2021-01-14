@@ -2,7 +2,7 @@
  * @file Linea_de_espera_.c
  * @version 5.11
  * @date 23/12/2020
- * @author Morales Antonio Fabiola 
+ 
  * @brief Se inicaliza cada una de las funciones
  */
  
@@ -12,7 +12,7 @@
  #include "Linea_de_espera.h"
  
   /* ---------------------------------------------------------------------------
-                             Códigos de función
+                             CÃ³digos de funciÃ³n
  --------------------------------------------------------------------------- */
  
  void capacidadSal(int cap_salidas[100], int cajas[50],int cap_uni,int hr_ini,int hr_fin)//funcion que obtiene  multiplicando el numero de cajas abiertas * la capacidad unitaria
