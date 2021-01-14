@@ -2,7 +2,7 @@
   * @file Linea_de_espera_app.c
   * @version 5.11
   * @date 23/12/2020
-  * @author Morales Antonio Fabiola
+  * @author Emmanuel Carpio Luis
   * @brief Es el programa principal 
   */
  
