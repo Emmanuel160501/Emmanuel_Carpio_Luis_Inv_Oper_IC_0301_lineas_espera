@@ -2,7 +2,7 @@
  * @file Linea_de_espera_.c
  * @version 5.11
  * @date 23/12/2020
- 
+ *@autor Emmanuel Carpio Luis
  * @brief Se inicaliza cada una de las funciones
  */
  
